@@ -1,0 +1,273 @@
+APPAREL MINT CORPORATION PURCHASE ORDER 
+
+ADDRESS : Apparel Mint Corporation, 26A Walton Street Port Hope, ON L1A1M9, (T)905-425-0602, 
+Email:production@limelightteamwear.com 
+
+
+NOMBRE DEL CLIENTE : Amy Lynn's Dance Studio 
+
+CUSTOMER NAME 
+DEL CLIENTE # : CUSTOMER # 
+FECHA DE PEDIDO : MARZO/March 4,2020 Date Sent to Vendor 
+FECHA DE DESPACHO : ABRIL/April 1,2020 Vendor’s Ship Date 
+
+CLIENTE ESPECIAL : some NEW products ****NEON**** Special 
+Attn. Customer 
+
+
+Confirmed Date : February 27, 2020 
+PO # : 3947 
+RM # : 7591 
+DESTINO DESPACHO : USA Ship To 
+
+Location 
+ARTE EXISTENTE AP : Yes Existing 
+Artwork 
+
+
+REFERENCIA / ITEM # 1 TALLAS - SIZES 
+Halter Top 
+
+NIÑA – 
+
+JOVEN 
+
+
+ADULTO - Adult 
+
+Acc. 
+
+Total 
+
+Child 
+
+Youth 
+
+ESTILO / Style # Vendor 
+
+C4 C6X YXS YS 
+
+YM YL 
+
+XS S 
+
+ML 
+
+XL XXL 
+
+1 Total 
+
+C13 
+
+C1 C2 
+
+C3 C4 
+
+A5 A6 
+
+A7 A8 
+
+A9 A10 
+
+Size 
+
+HAL - SUB Margarita 1 1 
+
+COSTURA / INSTRUCCIONES ESPECIALES - Sewing / Special Instructions : 
+NOMBRE DE TELA : JABON/MAYATEX Fabric Name 
+NOMBRE DE TELA DE MAYA : Mesh Fabric Name 
+HILO : BLANCO / White Topstitch 
+SESGO : BLANCO / White Binding 
+MAYA : BLANCO / White Mesh 
+NEON : Yes / Sí Neon 
+TIRAS : BLANCO / White Straps 
+
+OTRAS INSTRUCCIONES ESPECIALES - Other Special Instructions : 
+
+NEON ** COSER EL FAJÓN CON EL TEXTO HACIA ARIBA Y AL LADO IZQUIERDO 
+
+
+REFERENCIA / ITEM # 2 TALLAS - SIZES 
+Jazzy Sports Bra NIÑA – 
+Child 
+JOVEN -
+Youth 
+ADULTO - Adult Acc. Total 
+ESTILO / Style # Vendor C4 C6X 
+C13 
+YXS 
+C1 
+YS 
+C2 
+YM 
+C3 
+YL 
+C4 
+XS 
+A5 
+S 
+A6 
+M 
+A7 
+L 
+A8 
+XL 
+A9 
+XXL 
+A10 
+1 
+Size 
+Total 
+COB - SUPP Margarita 1 1 
+COSTURA / INSTRUCCIONES ESPECIALES - Sewing / Special Instructions : 
+NOMBRE DE TELA : 42060/LINING Fabric Name 
+HILO : BLANCO / White Topstitch 
+FORRO : Yes / Sí Lining 
+COLOR DE FORRO : BLANCO / White Lining Color 
+NEON : Yes / Sí Neon 
+OTRAS INSTRUCCIONES ESPECIALES - Other Special Instructions : 
+NEON 
+Page 1 of 3 
+
+
+APPAREL MINT CORPORATION PURCHASE ORDER 
+
+REFERENCIA / ITEM # 3 TALLAS - SIZES 
+Off the Shoulder Top NIÑA – 
+Child 
+JOVEN -
+Youth 
+ADULTO - Adult Acc. Total 
+ESTILO / Style # Vendor C4 C6X 
+C13 
+YXS 
+C1 
+YS 
+C2 
+YM 
+C3 
+YL 
+C4 
+XS 
+A5 
+S 
+A6 
+M 
+A7 
+L 
+A8 
+XL 
+A9 
+XXL 
+A10 
+1 
+Size 
+Total 
+OFT - SUB Margarita 1 1 1 3 
+COSTURA / INSTRUCCIONES ESPECIALES - Sewing / Special Instructions : 
+NOMBRE DE TELA : JABON Fabric Name 
+HILO : BLANCO / White Topstitch 
+NEON : Yes / Sí Neon 
+OTRAS INSTRUCCIONES ESPECIALES - Other Special Instructions : 
+NEON 
+REFERENCIA / ITEM # 4 TALLAS - SIZES 
+Bow NIÑA – 
+Child 
+JOVEN -
+Youth 
+ADULTO - Adult Acc. Total 
+ESTILO / Style 
+# 
+Vendor C4 C6X 
+C13 
+YXS 
+C1 
+YS 
+C2 
+YM 
+C3 
+YL 
+C4 
+XS 
+A5 
+S 
+A6 
+M 
+A7 
+L 
+A8 
+XL 
+A9 
+XXL 
+A10 
+1 
+Size 
+Total 
+BOW - SUB01 Margarita 12 12 
+COSTURA / INSTRUCCIONES ESPECIALES - Sewing / Special Instructions : 
+NOMBRE DE TELA : CINTA FAYA Fabric Name 
+COLOR DO ELASTICO : BLANCO / White Elastic Color 
+NEON : Yes / Sí Neon 
+OTRAS INSTRUCCIONES ESPECIALES - Other Special Instructions : 
+NEON 
+Page 2 of 3 
+
+
+APPAREL MINT CORPORATION PURCHASE ORDER 
+
+REFERENCIA / ITEM # 5 TALLAS - SIZES 
+Varsity Jacket NIÑA – 
+Child 
+JOVEN -
+Youth 
+ADULTO - Adult Acc. Total 
+ESTILO / Style # Vendor C4 C6X 
+C13 
+YXS 
+C1 
+YS 
+C2 
+YM 
+C3 
+YL 
+C4 
+XS 
+A5 
+S 
+A6 
+M 
+A7 
+L 
+A8 
+XL 
+A9 
+XXL 
+A10 
+1 
+Size 
+Total 
+VAR - SUB Margarita 1 1 2 
+Talla # NOMBRES / Names 
+XS 1 Adalyn 
+S 1 Chloe 
+COSTURA / INSTRUCCIONES ESPECIALES - Sewing / Special Instructions : 
+TIPO DE CHAQUETA : Jacket Type 
+NOMBRE DE TELA : 4261/LINING Fabric Name 
+RIB : Rib 
+CIERRE : NEGRO / Black Zipper 
+HILO : BLANCO / White Topstitch 
+COLOR DE PRETINA, CUELLO Y 
+PUNO 
+: NEGRO / Black Waistband, Collar & Cuff 
+Color 
+FORRO : Yes / Sí Lining 
+COLOR DE FORRO : BLANCO / White Lining Color 
+NEON : Yes / Sí Neon 
+NOMBRES : Yes / Sí Names 
+LOCALIZACION DEL NOMBRE : PECHO DERECHO / Right Chest Names Location 
+OTRAS INSTRUCCIONES ESPECIALES - Other Special Instructions : 
+NEON 
+Other Special Instructions - Otras Instrucciones Especiales : 
+Page 3 of 3 
+
+

@@ -1,0 +1,12 @@
+Sheets("Pedidos").Cells(1, 1) = "NOMBRE DEL CLIENTE : " & TextBox1.Value & " CUSTOMER Name"
+Sheets("Pedidos").Cells(3, 1) = "DEL CLIENTE # : " & TextBox2.Value & " CUSTOMER #"
+Sheets("Pedidos").Cells(4, 1) = "FECHA DE PEDIDO : " & TextBox3.Value & " Date Sent to Vendor"
+Sheets("Pedidos").Cells(5, 1) = "FECHA DE DESPACHO : " & TextBox4.Value & " Vendor’s Ship Date"
+Sheets("Pedidos").Cells(6, 1) = "CLIENTE ESPECIAL : " & Cliente_especial.Value & " Special Attn.Customer"
+Sheets("Pedidos").Cells(1, 17) = "Confirmed Date :" & TextBox6.Value
+Sheets("Pedidos").Cells(2, 17) = "PO #: " & TextBox7.Value
+Sheets("Pedidos").Cells(3, 17) = "RM #: " & TextBox8.Value
+Sheets("Pedidos").Cells(4, 17) = "DESTINO DESPACHO : " & TextBox9.Value & " Ship To Location"
+Sheets("Pedidos").Cells(5, 17) = "ARTE EXISTENTE AP : " & Arte_existente.Value & " Existing Artwork"
+Sheets("Pedidos").Cells(2, 27) = Vendedor.Value
+Unload Cliente

@@ -1,0 +1,19 @@
+If SKUcode = "LEG SUB 02" Then
+        Fabric2.Visible = True
+        Fabric2Label.Visible = True
+    ElseIf SKUcode = "LEG SUB 01" Then
+        Fabric2.Visible = True
+        Fabric2Label.Visible = True
+    ElseIf SKUcode = "COL SUPP" Then
+        Fabric2.Visible = True
+        Fabric2Label.Visible = True
+    ElseIf SKUcode = "CHE SUB 01" Then
+        Fabric2.Visible = True
+        Fabric2Label.Visible = True
+    ElseIf SKUcode = "COS SUPP" Then
+        Fabric2.Visible = True
+        Fabric2Label.Visible = True
+    Else
+        Fabric2.Visible = False
+        Fabric2Label.Visible = False
+    End If
